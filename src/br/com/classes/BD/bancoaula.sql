@@ -45,7 +45,7 @@ CREATE TABLE `tblusuarios` (
 
 /*!40000 ALTER TABLE `tblusuarios` DISABLE KEYS */;
 INSERT INTO `tblusuarios` (`cod`,`nome`,`datanasc`,`funcao`,`fone`,`cel`,`usuario`,`senha`,`dica`) VALUES 
- (1,'Wesley','22/02/2000','Aluno','36571585','19958456331','wesley','4002','dica');
+ (1,'Wesley','22/02/2000','Aluno','8888888','4659875986','wesley','4002','dica');
 /*!40000 ALTER TABLE `tblusuarios` ENABLE KEYS */;
 
 
